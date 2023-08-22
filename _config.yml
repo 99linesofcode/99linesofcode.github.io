@@ -1,0 +1,13 @@
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# jekyll-paginate settings
+paginate: 5
+
+# jekyll-feed settings
+title: "99linesofcode and thoughts"
+description: "A blog about programming and life"
+author: "99linesofcode"
