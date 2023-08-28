@@ -1,10 +1,13 @@
+{% if site.data.settings.menu %}
 <div class="menu">
-  <nav class="menu-content">
+  <nav>
     {% for item in site.data.settings.menu %}
-      <a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
+    <a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
     {% endfor %}
   </nav>
-  <nav class="social-icons">
+
+  <nav>
     {% include social-icons.html %}
   </nav>
 </div>
+{% endif %}

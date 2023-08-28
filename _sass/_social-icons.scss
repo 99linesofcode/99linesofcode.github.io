@@ -1,7 +1,3 @@
-/*
-  Social media icons
-*/
-
 .sharing-icons a {
   padding-right: 10px;
 }
@@ -12,6 +8,7 @@
   -ms-transition: $transition;
   -moz-transition: $transition;
   transition: $transition;
+
   &:hover{
     color: $color;
   }
@@ -27,11 +24,6 @@
   @include social-media-icon($twitter-color, $icon-transition-time);
 }
 
-.fa-instagram {
-  padding: 5px;
-  @include social-media-icon($instagram-color, $icon-transition-time);
-}
-
 .fa-github {
   padding: 5px;
   @include social-media-icon($github-color, $icon-transition-time);
@@ -40,26 +32,6 @@
 .fa-linkedin {
   padding: 5px;
   @include social-media-icon($linkedin-color, $icon-transition-time);
-}
-
-.fa-facebook {
-  padding: 5px;
-  @include social-media-icon($facebook-color, $icon-transition-time);
-}
-
-.fa-pinterest {
-  padding: 5px;
-  @include social-media-icon($pinterest-color, $icon-transition-time);
-}
-
-.fa-medium {
-  padding: 5px;
-  @include social-media-icon($medium-color, $icon-transition-time);
-}
-
-.fa-codepen {
-  padding: 5px;
-  @include social-media-icon($codepen-color, $icon-transition-time);
 }
 
 .fa-rss-square {

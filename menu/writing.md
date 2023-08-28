@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: Writing
+title: Archive
 permalink: /writing
 ---

@@ -1,3 +1,7 @@
+title: "99linesofcode"
+hide_post_share: true
+hide_post_date: false
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -8,6 +12,4 @@ plugins:
 paginate: 5
 
 # jekyll-feed settings
-title: "99linesofcode and thoughts"
-description: "A blog about programming and life"
-author: "99linesofcode"
+author: "Jordy Schreuders"

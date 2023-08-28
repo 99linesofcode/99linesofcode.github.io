@@ -1,19 +1,14 @@
-/*
-  Post
-*/
-
 .post-date {
-  display: block;
-  margin-top:3px;
-  margin-bottom: 1rem;
   color: $light-gray-color;
-  font-family: $sans-serif-font-family;
-  font-size:0.8rem;
+  display: block;
+  font-family: $code-font-family;
+  font-size: 1.2rem;
+  margin: 3px 0 1rem;
 }
 
 @media (max-width: $elements-responsive-width) {
   .posts h1 {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
   }
 }
 
@@ -22,10 +17,10 @@
 }
 
 .related-posts {
-  padding-left: 0px;
   list-style: none;
-}
+  padding-left: 0px;
 
-.related-posts a {
-  text-decoration: none;
+  a {
+    text-decoration: none;
+  }
 }

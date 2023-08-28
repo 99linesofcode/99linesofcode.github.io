@@ -1,7 +1,12 @@
 <header class="header">
-  <h3 class="header-title">
-    <a href="{{ site.github.url }}/">{{ site.title }}</a>
-    <small class="header-subtitle">{{ site.description }}</small>
-    {% include menu.html %}
-  </h3>
+  <a class="header-title" href="{{ site.github.url }}/">
+    <img
+      src="{{ site.github.url }}/assets/logo.png"
+      alt="logo"
+      width="50px"
+      height="50px" />
+    <h1>{{ site.title }}</h1>
+  </a>
+
+  {% include menu.html %}
 </header>
