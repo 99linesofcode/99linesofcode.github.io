@@ -1,0 +1,3 @@
+[submodule "obsidian-public"]
+	path = obsidian-public
+	url = git@github.com:99linesofcode/obsidian-public.git
