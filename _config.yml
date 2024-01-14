@@ -1,8 +1,4 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 99linesofcode
+description: A collection of thoughts on life and code I felt worth sharing.
 theme: just-the-docs
-
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+url: https://repo.99linesofcode.nl
