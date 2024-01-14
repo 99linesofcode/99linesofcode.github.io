@@ -1,9 +1,10 @@
 ---
 title: Home
 layout: home
+nav_order: "1"
 ---
 
-A collection of thoughts, ideas and code snippets I felt were worth sharing.
+A collection of thoughts, ideas and code snippets felt were worth sharing.
 
 Starting off this will mostly be a place where I'll share boilerplate code and things I've learned during my day to day. In the near future I intend to do more writing on subjects such as philosophy, psychology, computer science and various other subject matter. To my and other people's amusement I'm sure.
 
