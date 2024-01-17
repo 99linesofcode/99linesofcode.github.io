@@ -12,4 +12,4 @@ For most applications running whole Kubernetes clusters is overkill since they t
 
 The following provision script configures a fresh Ubuntu box so that it is ready to serve Docker containers safely. It might need some additional hardening but I'm not sure how I want to approach that just yet.
 
-<<< @/notes-public/ansible/provision.yaml
+<<< @/snippets/ansible/provision.yaml
