@@ -25,3 +25,5 @@ ssh_key: <PUBLIC_SSH_KEY_FILENAME>
 ::: warning Note
 This playbook sets up the user environment and then revokes root SSH access. After running it you will no longer be able to SSH into your machine as root. Use the newly created user for all subsequent logins for example: `ssh 99linesofcode@srv01`
 :::
+
+<<< @/snippets/ansible/provision.yaml
