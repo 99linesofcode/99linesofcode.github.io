@@ -1,6 +1,0 @@
-[submodule "snippets"]
-	path = snippets
-	url = https://github.com/99linesofcode/snippets.git
-[submodule "notes-public"]
-	path = notes-public
-	url = https://github.com/99linesofcode/notes-public.git

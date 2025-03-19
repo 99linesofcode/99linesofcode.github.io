@@ -18,8 +18,8 @@ Initially this website will mostly be a place where I'll share snippets of code 
 
 Looking for a way to support me or my work? Consider going through one of the referral links below:
 
-| Service | Benefit |
-| ------- | --- |
-| [Hetzner](https://hetzner.cloud/?ref=8HSHPqBXF9gp) | Get €20 credits, give me €10 |
-| [DigitalOcean](https://m.do.co/c/4b00cb7a2ef7) | Get €200 credits, give me €25 |
+| Service                                            | Benefit                       |
+| -------------------------------------------------- | ----------------------------- |
+| [Hetzner](https://hetzner.cloud/?ref=8HSHPqBXF9gp) | Get €20 credits, give me €10  |
+| [DigitalOcean](https://m.do.co/c/4b00cb7a2ef7)     | Get €200 credits, give me €25 |
 
