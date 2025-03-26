@@ -1,22 +1,20 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
-layout: doc
-
-hero:
-  name: "99linesofthought"
-  text: "A collection of thoughts, ideas and code I felt were worth sharing"
-
+sidebar: false
+aside: false
+next:
+  text: 'About me'
+  link: '/about/'
 ---
+### Welcome
 
-### Hi.
+This is my personal blog — a space where I bring together my thoughts, ideas, and projects. While technology is a recurring theme, it’s far from the only subject you’ll find here. This platform is about exploring concepts, organizing ideas, and sharing what I find meaningful.
 
-### My name is Jordy Schreuders
+Under the moniker 99linesofcode, I'm active as an independent contractor providing software development services and occasionally publishing some of my work into the public domain. This blog serves as a hub for those endeavors, as well as a place to showcase other professional and creative pursuits I’m engaged in.
 
-I am an independent software developer from The Netherlands that specializes in building medium to large scale web applications, primarily using [PHP](https://php.net) and the [Laravel](https://laravel.com) development framework.
+Rather than a structured roadmap or a singular narrative, this is a space where expertise intersects with curiosity. It offers room for reflection, fresh perspectives, and, occasionally, the unexpected.
 
-Initially this website will mostly be a place where I'll share snippets of code and things I've learned during my day to day. Later on I intend to develop my writing and will be using this as a place to publish my thoughts and ideas on various topics of interest such as (but not limited to) software architecture, economics, philosophy and human psychology.
-
-Looking for a way to support me or my work? Consider going through one of the referral links below:
+Want to show your appreciation for the work I do? Consider using one of the referral links below or — if you're feeling exceptionally generous — [sponsoring my work on Github](https://github.com/sponsors/99linesofcode).
 
 | Service                                            | Benefit                       |
 | -------------------------------------------------- | ----------------------------- |
