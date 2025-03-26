@@ -1,7 +1,9 @@
 ---
-layout: doc
 title: Ansible
 titleTemplate: Provisioning your server
+next:
+  text: 'How I would learn Nix if I could do it again'
+  link: '/articles/how-i-would-learn-nix-if-i-could-do-it-again'
 ---
 
 # Ansible
