@@ -4,6 +4,7 @@
     "@stylistic/eslint-plugin": "^4.2.0",
     "eslint": "^9.23.0",
     "eslint_d": "^14.3.0",
+    "jsonlint": "^1.6.3",
     "markdownlint-cli2": "^0.17.2",
     "vitepress": "^1.6.3"
   }
