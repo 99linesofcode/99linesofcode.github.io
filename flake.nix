@@ -52,6 +52,7 @@
             # ];
 
             packages = with pkgs; [
+              nodejs
               nodePackages.pnpm
 
               vale # prose linter
