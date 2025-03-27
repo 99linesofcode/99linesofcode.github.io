@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "markdownlint-cli2": "^0.17.2",
     "vitepress": "^1.6.3"
   }
 }
