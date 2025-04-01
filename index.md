@@ -14,10 +14,4 @@ Under the moniker 99linesofcode, I'm active as an independent contractor providi
 
 Rather than a structured roadmap or a singular narrative, this is a space where expertise intersects with curiosity. It offers room for reflection, fresh perspectives, and, occasionally, the unexpected.
 
-Want to show your appreciation for the work I do? Consider using one of the referral links below or — if you're feeling exceptionally generous — [sponsoring my work on Github](https://github.com/sponsors/99linesofcode).
-
-| Service                                            | Benefit                       |
-| -------------------------------------------------- | ----------------------------- |
-| [Hetzner](https://hetzner.cloud/?ref=8HSHPqBXF9gp) | Get €20 credits, give me €10  |
-| [DigitalOcean](https://m.do.co/c/4b00cb7a2ef7)     | Get €200 credits, give me €25 |
-
+Want to show your appreciation for the work I do? Consider using one of these referral links for [Hetzner](https://hetzner.cloud/?ref=8HSHPqBXF9gp) or [DigitalOcean](https://m.do.co/c/4b00cb7a2ef7). Or — if you're feeling exceptionally generous — [sponsoring me on Github](https://github.com/sponsors/99linesofcode)
