@@ -7,7 +7,7 @@ prev:
   link: '/'
 next: false
 ---
-### About Me
+# About Me
 
 👋 Hi, I’m Jordy. I’m just a curious guy with a knack for taking things apart and building them back up. Born and raised in Eindhoven, in the southern, characteristically Burgundian part of the Netherlands.
 

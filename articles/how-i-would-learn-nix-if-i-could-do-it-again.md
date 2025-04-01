@@ -8,7 +8,7 @@ prev:
 
 # NixOS and Home Manager
 
-If declaratively defining your complete operating system and user environment sounds like a joy to you, then Nix is the tool for you. There is a bit of a learning curve but in this blog post I'll try to make that as smooth as possible for you. Lets go for a ride, a learning how to learn, after which you'll be able to take the wheel and ride off into the sunset by yourself. Albeit with a sidecar or a small set of training wheels.
+If declaratively defining your complete operating system and user environment sounds like a joy to you, then Nix is the tool for the job. There is a bit of a learning curve but in this blog post I'll cut through the weeds and outline how you can learn about Nix and it's ecosystem as quickly as possible. Lets go for a ride, a learning how to learn, after which you'll be able to take the wheel and ride off into the sunset that is Nix by yourself.
 
 ## What's this Nix you speak of?
 
@@ -47,7 +47,7 @@ Many of the examples or repositories you will be referencing and drawing inspira
 In summary, assuming you understand what an attribute set is, Nix modules consist of functions taking a single attribute set as a parameter and returning an attribute set adhering to a specific schema:
 
 ```nix
-{ config, pkgs, ... }:
+{ ... }:
 
 {
   services.httpd = {
@@ -67,11 +67,9 @@ Since Nix has the largest package repository in the world, chances are your favo
 In the screenshot above you can see that Zsh exists as a derivation (`nixpkgs/package/zsh`) as well as a Nix Module (`nixpkgs/option/programs.zsh`). Oftentimes a Nix module already exists to simplify configuring the application and abstracting away any complexities that may be involved with it. To use the Zsh module lets enable it as follows:
 
 ```nix
-{...}: 
+{ ... }: 
 
 {
-  # ...
-
   programs.zsh = {
     enable = true;
     # And enable the ohMyZsh option while we are at it..
@@ -82,8 +80,6 @@ In the screenshot above you can see that Zsh exists as a derivation (`nixpkgs/pa
       ];
     };
   };
-
-  # ...
 }
 ```
 
