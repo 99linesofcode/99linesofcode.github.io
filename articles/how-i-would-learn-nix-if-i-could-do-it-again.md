@@ -1,9 +1,12 @@
 ---
 title: Nix, NixOS and Home Manager
 titleTemplate: How I would learn Nix if I could do it again
+next:
+  text: 'Rclone Docker volume plugin in Rootless mode'
+  link: '/articles/rootless-rclone-docker-volume-plugin'
 prev:
-  text: 'Ansible Provisioning Quicky'
-  link: '/articles/ansible-provisioning-quicky'
+  text: 'Ansible Provisioning Quickie'
+  link: '/articles/ansible-provisioning-quickie'
 ---
 
 # NixOS and Home Manager
