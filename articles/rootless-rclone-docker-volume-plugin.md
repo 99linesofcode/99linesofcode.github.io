@@ -56,7 +56,7 @@ mkdir -p $XDG_DATA_HOME/docker-plugins/rclone/config $XDG_DATA_HOME/docker-plugi
 Next, place your `rclone.conf` in the new `$XDG_DATA_HOME/docker-plugins/rclone/config/` directory or symlink to it from its default location:
 
 ```sh
-ln -sf $XDG_CONFIG_DIR/rclone/rclone.conf $XDG_DATA_HOME/docker-plugins/rclone/config/rclone.conf
+ln -sf $XDG_CONFIG_HOME/rclone/rclone.conf $XDG_DATA_HOME/docker-plugins/rclone/config/rclone.conf
 ```
 
 And finally, we can proceed with the installation of the plugin. We only need to make two slight modifications to the install command: we define our new `config` and `cache` directories like so:
